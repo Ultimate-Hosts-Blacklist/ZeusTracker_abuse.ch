@@ -1,7 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/ZeusTracker_abuse.ch/domains.list": {
-        "1520769897": [
-            "039b1ee.netsolhost.com",
+        "1520891531": [
             "03a6b7a.netsolhost.com",
             "03a6f57.netsolhost.com",
             "03bbec4.netsolhost.com",
@@ -16,7 +15,6 @@
             "arcelikpendikservisi.gen.tr",
             "arvision.com.co",
             "ashoesheestono.eu",
-            "auto-fx.fr",
             "axpoium.echange.su",
             "b.1s2.in.ua",
             "baliwag.xyz",
@@ -243,6 +241,9 @@
             "z3us1.z-ed.info",
             "zadmj.cp-addltives.com",
             "zetes.vdsinside.com"
+        ],
+        "to_test": [
+            "039b1ee.netsolhost.com"
         ]
     }
 }
