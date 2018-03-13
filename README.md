@@ -1,8 +1,10 @@
-# About [ZeusTracker_abuse.ch]
+# About ZeusTracker_abuse.ch
 
 [![Build Status](https://travis-ci.org/Ultimate-Hosts-Blacklist/ZeusTracker_abuse.ch.svg?branch=master)](https://travis-ci.org/Ultimate-Hosts-Blacklist/ZeusTracker_abuse.ch)
 
-[Description]
+```
+This blocklist contains the same data as the ZeuS domain blocklist (BadDomains) but with the slight difference that it doesn't exclude hijacked websites (level 2). This means that this blocklist contains all domain names associated with ZeuS C&Cs which are currently being tracked by ZeuS Tracker. Hence this blocklist will likely cause some false positives.
+```
 
 --------------------------------------------------------------------------------
 
