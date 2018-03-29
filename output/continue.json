@@ -1,8 +1,8 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/ZeusTracker_abuse.ch/domains.list": {
-        "down": 247,
+        "down": 245,
         "invalid": 0,
         "tested": 375,
-        "up": 128
+        "up": 130
     }
 }
