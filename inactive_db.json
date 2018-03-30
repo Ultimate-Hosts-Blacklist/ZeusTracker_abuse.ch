@@ -1,7 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/ZeusTracker_abuse.ch/domains.list": {
-        "1522270723": [
-            "039b1ee.netsolhost.com",
+        "1522416545": [
             "03a6b7a.netsolhost.com",
             "03a6f57.netsolhost.com",
             "03bbec4.netsolhost.com",
@@ -75,6 +74,7 @@
             "fileserver03.com",
             "finalcrashtest.co.nz",
             "finsolutions.top",
+            "flex.comonwealthplc.com",
             "fludgwererqo.at",
             "foxmanwer.pw",
             "frank1.ddf.al",
@@ -160,6 +160,7 @@
             "presleywebs.uk.pn",
             "prk.firstconf.3gb.biz",
             "programtotalatoma.esy.es",
+            "prtscrinsertcn.net",
             "qbhcsope.com",
             "regame.su",
             "regsways.top",
@@ -246,6 +247,8 @@
             "zadmj.cp-addltives.com",
             "zetes.vdsinside.com"
         ],
-        "to_test": []
+        "to_test": [
+            "039b1ee.netsolhost.com"
+        ]
     }
 }
