@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/ZeusTracker_abuse.ch/domains.list": {
-        "1538834565": [
+        "1539179634": [
             "039b1ee.netsolhost.com",
             "03a6b7a.netsolhost.com",
             "03a6f57.netsolhost.com",
@@ -89,6 +89,7 @@
             "frank1.ddf.al",
             "franka.in.net",
             "freshwork.email-accountsettings.online",
+            "front.postmaster.services",
             "fx45.pp.ru",
             "gate.timstackleshop.es",
             "genteatsss.com",
@@ -208,6 +209,7 @@
             "serversss.biz",
             "shadowraze.pw",
             "shaktitextileengr.com",
+            "slanted.excelonlinereader.services",
             "slap.alliancekl.com",
             "slivoratikam.pw",
             "slot.sub-zero.it",
@@ -277,8 +279,7 @@
             "z0bu.dynu.com",
             "z3us1.z-ed.info",
             "zadmj.cp-addltives.com",
-            "zetes.vdsinside.com",
-            "slanted.excelonlinereader.services"
+            "zetes.vdsinside.com"
         ],
         "to_test": []
     }
