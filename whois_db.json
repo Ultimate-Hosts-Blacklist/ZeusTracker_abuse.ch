@@ -156,9 +156,9 @@
             "state": "future"
         },
         "servmill.com": {
-            "epoch": "1535587200",
-            "expiration_date": "30-aug-2018",
-            "state": "past"
+            "epoch": "1574208000",
+            "expiration_date": "20-nov-2019",
+            "state": "future"
         },
         "sqxflow.com": {
             "epoch": "1567209600",
