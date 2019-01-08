@@ -55,6 +55,11 @@
             "expiration_date": "11-oct-2019",
             "state": "future"
         },
+        "cji1.com": {
+            "epoch": "1565654400",
+            "expiration_date": "13-aug-2019",
+            "state": "future"
+        },
         "cy-m0ld.com": {
             "epoch": "1534464000",
             "expiration_date": "17-aug-2018",
