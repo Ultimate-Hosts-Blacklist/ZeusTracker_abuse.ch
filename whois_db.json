@@ -110,6 +110,11 @@
             "expiration_date": "06-dec-2019",
             "state": "future"
         },
+        "grati.cf": {
+            "epoch": "1569715200",
+            "expiration_date": "29-sep-2019",
+            "state": "future"
+        },
         "gyalkingerz.com": {
             "epoch": "1569456000",
             "expiration_date": "26-sep-2019",
