@@ -70,6 +70,11 @@
             "expiration_date": "16-apr-2019",
             "state": "future"
         },
+        "dupionet.com": {
+            "epoch": "1570579200",
+            "expiration_date": "09-oct-2019",
+            "state": "future"
+        },
         "dzitech.net": {
             "epoch": "1577404800",
             "expiration_date": "27-dec-2019",
