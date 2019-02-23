@@ -15,6 +15,11 @@
             "expiration_date": "12-sep-2018",
             "state": "past"
         },
+        "apple-trusted.com": {
+            "epoch": "1582416000",
+            "expiration_date": "23-feb-2020",
+            "state": "future"
+        },
         "auto-fx.fr": {
             "epoch": "1577836800",
             "expiration_date": "01-jan-2020",
