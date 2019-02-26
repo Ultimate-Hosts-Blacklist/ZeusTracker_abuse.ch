@@ -10,6 +10,11 @@
             "expiration_date": "29-may-2019",
             "state": "future"
         },
+        "alvoportas.com.br": {
+            "epoch": "1560211200",
+            "expiration_date": "11-jun-2019",
+            "state": "future"
+        },
         "anderlechti.com": {
             "epoch": "1536710400",
             "expiration_date": "12-sep-2018",
@@ -28,6 +33,11 @@
         "az-armaturen.su": {
             "epoch": "1557360000",
             "expiration_date": "09-may-2019",
+            "state": "future"
+        },
+        "banana.dp.ua": {
+            "epoch": "1564617600",
+            "expiration_date": "01-aug-2019",
             "state": "future"
         },
         "bikeshophaidli.com": {
@@ -180,6 +190,11 @@
             "expiration_date": "18-dec-2019",
             "state": "future"
         },
+        "reimbergit.com.br": {
+            "epoch": "1584576000",
+            "expiration_date": "19-mar-2020",
+            "state": "future"
+        },
         "servmill.com": {
             "epoch": "1574208000",
             "expiration_date": "20-nov-2019",
@@ -209,6 +224,11 @@
             "epoch": "1543536000",
             "expiration_date": "30-nov-2018",
             "state": "past"
+        },
+        "vashadvokat.in.ua": {
+            "epoch": "1562284800",
+            "expiration_date": "05-jul-2019",
+            "state": "future"
         },
         "vegantravelshow.com": {
             "epoch": "1566000000",
