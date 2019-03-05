@@ -80,6 +80,11 @@
             "expiration_date": "13-aug-2019",
             "state": "future"
         },
+        "crestrone.com": {
+            "epoch": "1579824000",
+            "expiration_date": "24-jan-2020",
+            "state": "future"
+        },
         "cy-m0ld.com": {
             "epoch": "1534464000",
             "expiration_date": "17-aug-2018",
