@@ -200,6 +200,11 @@
             "expiration_date": "17-jul-2019",
             "state": "future"
         },
+        "owiink.com": {
+            "epoch": "1579910400",
+            "expiration_date": "25-jan-2020",
+            "state": "future"
+        },
         "pandyi.com": {
             "epoch": "1536710400",
             "expiration_date": "12-sep-2018",
