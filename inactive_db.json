@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/ZeusTracker_abuse.ch/domains.list": {
-        "1553527417": [
+        "1553718414": [
             "02level.tk",
             "039b1ee.netsolhost.com",
             "03a6b7a.netsolhost.com",
@@ -395,7 +395,9 @@
             "www.hyperbolic.tk",
             "www.illinoisnets.net",
             "www.immaculate.tk",
+            "www.impm.upel.edu.ve",
             "www.ingenicopads.kz",
+            "www.ipm.upel.edu.ve",
             "www.j0k3rj0k3r.tk",
             "www.jaaphram.com",
             "www.jacoblanderville.myjino.ru",
@@ -534,10 +536,7 @@
             "z0bu.dynu.com",
             "z3us1.z-ed.info",
             "zadmj.cp-addltives.com",
-            "zetes.vdsinside.com",
-            "dasch.pl",
-            "www.impm.upel.edu.ve",
-            "www.ipm.upel.edu.ve"
+            "zetes.vdsinside.com"
         ],
         "to_test": []
     }
