@@ -110,6 +110,11 @@
             "expiration_date": "17-aug-2018",
             "state": "past"
         },
+        "cypress-tvv.com": {
+            "epoch": "1580256000",
+            "expiration_date": "29-jan-2020",
+            "state": "future"
+        },
         "delaponitan.pw": {
             "epoch": "1490745600",
             "expiration_date": "29-mar-2017",
