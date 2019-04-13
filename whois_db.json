@@ -45,6 +45,11 @@
             "expiration_date": "18-may-2019",
             "state": "future"
         },
+        "beqarcarton.com": {
+            "epoch": "1582070400",
+            "expiration_date": "19-feb-2020",
+            "state": "future"
+        },
         "bikeshophaidli.com": {
             "epoch": "1569888000",
             "expiration_date": "01-oct-2019",
