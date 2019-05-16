@@ -320,8 +320,8 @@
         "state": "past"
     },
     "pharmaspan.com": {
-        "epoch": "1557792000",
-        "expiration_date": "14-may-2019",
+        "epoch": 1589414400,
+        "expiration_date": "14-may-2020",
         "state": "future"
     },
     "platinum-casino.ru": {
@@ -415,7 +415,7 @@
         "state": "future"
     },
     "updateacces.org": {
-        "epoch": "1543536000",
+        "epoch": 1543536000,
         "expiration_date": "30-nov-2018",
         "state": "past"
     },
