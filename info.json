@@ -1,7 +1,11 @@
 {
     "currently_under_test": "0",
     "days_until_next_test": 2,
+    "last_autosave_datetime": "Sun Jun  9 16:00:45 2019",
+    "last_autosave_epoch": 1560096045.603812,
     "last_test": 1557417789,
     "name": "ZeusTracker_abuse.ch",
-    "raw_link": "https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist"
+    "raw_link": "https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist",
+    "start_datetime": "Sun Jun  9 15:57:35 2019",
+    "start_epoch": 1560095855.928188
 }
