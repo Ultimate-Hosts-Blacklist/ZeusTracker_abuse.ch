@@ -274,6 +274,11 @@
         "expiration_date": "13-sep-2019",
         "state": "future"
     },
+    "kudrnwosas.faith": {
+        "epoch": 1592611200,
+        "expiration_date": "20-jun-2020",
+        "state": "future"
+    },
     "lifeisgoodwhenu2.info": {
         "epoch": "1586131200",
         "expiration_date": "06-apr-2020",
@@ -287,6 +292,11 @@
     "luenhinpearl.com": {
         "epoch": "1586131200",
         "expiration_date": "06-apr-2020",
+        "state": "future"
+    },
+    "lzediamike.trade": {
+        "epoch": 1592611200,
+        "expiration_date": "20-jun-2020",
         "state": "future"
     },
     "malikshabas.com": {
@@ -482,6 +492,11 @@
     "witkey.com": {
         "epoch": "1563580800",
         "expiration_date": "20-jul-2019",
+        "state": "future"
+    },
+    "xbsezlmaha.loan": {
+        "epoch": 1592611200,
+        "expiration_date": "20-jun-2020",
         "state": "future"
     }
 }
