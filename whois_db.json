@@ -225,9 +225,9 @@
         "state": "future"
     },
     "hi-j.com": {
-        "epoch": 1558224000,
-        "expiration_date": "19-may-2019",
-        "state": "past"
+        "epoch": 1593043200,
+        "expiration_date": "25-jun-2020",
+        "state": "future"
     },
     "high-light-tw.com": {
         "epoch": "1546560000",
@@ -365,12 +365,12 @@
         "state": "future"
     },
     "ryuitaqw.pw": {
-        "epoch": "1487289600",
+        "epoch": 1487289600,
         "expiration_date": "17-feb-2017",
         "state": "past"
     },
     "samoniklo.pw": {
-        "epoch": "1494028800",
+        "epoch": 1494028800,
         "expiration_date": "06-may-2017",
         "state": "past"
     },
@@ -380,7 +380,7 @@
         "state": "future"
     },
     "slivoratikam.pw": {
-        "epoch": "1492387200",
+        "epoch": 1492387200,
         "expiration_date": "17-apr-2017",
         "state": "past"
     },
@@ -450,7 +450,7 @@
         "state": "past"
     },
     "valntooglesakrundigk.pw": {
-        "epoch": "1467590400",
+        "epoch": 1467590400,
         "expiration_date": "04-jul-2016",
         "state": "past"
     },
