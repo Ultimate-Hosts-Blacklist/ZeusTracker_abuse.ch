@@ -140,7 +140,7 @@
         "state": "future"
     },
     "delaponitan.pw": {
-        "epoch": "1490745600",
+        "epoch": 1490745600,
         "expiration_date": "29-mar-2017",
         "state": "past"
     },
@@ -215,7 +215,7 @@
         "state": "future"
     },
     "googlepetkavanis4.pw": {
-        "epoch": "1500163200",
+        "epoch": 1500163200,
         "expiration_date": "16-jul-2017",
         "state": "past"
     },
@@ -470,7 +470,7 @@
         "state": "future"
     },
     "vassabgg.pw": {
-        "epoch": "1500163200",
+        "epoch": 1500163200,
         "expiration_date": "16-jul-2017",
         "state": "past"
     },
