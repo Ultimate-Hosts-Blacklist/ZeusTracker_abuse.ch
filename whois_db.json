@@ -184,6 +184,11 @@
         "expiration_date": "18-sep-2019",
         "state": "future"
     },
+    "finsolutions.top": {
+        "epoch": 1593820800,
+        "expiration_date": "04-jul-2020",
+        "state": "future"
+    },
     "foxlimited.top": {
         "epoch": "1575676800",
         "expiration_date": "07-dec-2019",
@@ -415,7 +420,7 @@
         "state": "past"
     },
     "techakym.pw": {
-        "epoch": "1471478400",
+        "epoch": 1471478400,
         "expiration_date": "18-aug-2016",
         "state": "past"
     },
