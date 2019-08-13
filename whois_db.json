@@ -120,9 +120,9 @@
         "state": "future"
     },
     "cji1.com": {
-        "epoch": "1565654400",
+        "epoch": 1565654400,
         "expiration_date": "13-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "crestrone.com": {
         "epoch": "1579824000",
