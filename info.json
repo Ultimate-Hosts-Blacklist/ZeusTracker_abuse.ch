@@ -1,25 +1,25 @@
 {
     "currently_under_test": "0",
     "days_until_next_test": 2,
-    "end_datetime": "Sat Aug 17 16:29:24 2019",
-    "end_epoch": 1566059364.592335,
+    "end_datetime": "Sun Aug 18 16:40:57 2019",
+    "end_epoch": 1566146457.391877,
     "last_autosave_datetime": "Sun Jun  9 16:00:45 2019",
     "last_autosave_epoch": 1560096045.603812,
     "name": "ZeusTracker_abuse.ch",
     "previous_stats": {
         "builds": 1,
-        "clean.list": 68,
+        "clean.list": 62,
         "counter": {
             "down": 501,
             "invalid": 5,
-            "tested": 574,
-            "up": 68
+            "tested": 568,
+            "up": 62
         },
-        "domains.list": 574,
-        "volatile.list": 68,
-        "whitelisted.list": 68
+        "domains.list": 568,
+        "volatile.list": 62,
+        "whitelisted.list": 62
     },
     "raw_link": "https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist",
-    "start_datetime": "Sat Aug 17 16:25:43 2019",
-    "start_epoch": 1566059143.649966
+    "start_datetime": "Sun Aug 18 16:37:02 2019",
+    "start_epoch": 1566146222.015553
 }
