@@ -329,6 +329,11 @@
         "expiration_date": "16-may-2019",
         "state": "past"
     },
+    "mycraft.com.br": {
+        "epoch": 1598486400,
+        "expiration_date": "27-aug-2020",
+        "state": "future"
+    },
     "nikey.cn": {
         "epoch": "1563321600",
         "expiration_date": "17-jul-2019",
