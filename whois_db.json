@@ -125,7 +125,7 @@
         "state": "future"
     },
     "crestrone.com": {
-        "epoch": "1579824000",
+        "epoch": 1579824000,
         "expiration_date": "24-jan-2020",
         "state": "future"
     },
