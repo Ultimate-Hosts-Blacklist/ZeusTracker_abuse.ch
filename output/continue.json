@@ -531,13 +531,16 @@
         "www.felceconserve.com",
         "orquestanacaona.cult.cu",
         "www.bestboy.top",
-        "ice.ip64.net"
+        "ice.ip64.net",
+        "frank1.ddf.al",
+        "dino1.ddf.al"
     ],
     "INVALID": [
         ".com",
         "\"",
         "<?php",
         "exit();",
-        "?>"
+        "?>",
+        "INACTIVE"
     ]
 }
