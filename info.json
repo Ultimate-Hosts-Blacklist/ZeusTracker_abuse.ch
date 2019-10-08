@@ -1,19 +1,19 @@
 {
     "current_stats": {
-        "builds": 38,
+        "builds": 39,
         "counter": {
             "down": 509,
             "invalid": 9,
-            "tested": 586,
-            "up": 68
+            "tested": 587,
+            "up": 69
         }
     },
     "currently_under_test": "1",
     "days_until_next_test": 2,
     "end_datetime": "Thu Oct  3 10:21:02 2019",
     "end_epoch": 1570098062.06017,
-    "last_autosave_datetime": "Tue Oct  8 20:44:06 2019",
-    "last_autosave_epoch": 1570567446.177705,
+    "last_autosave_datetime": "Tue Oct  8 23:10:55 2019",
+    "last_autosave_epoch": 1570576255.012504,
     "name": "ZeusTracker_abuse.ch",
     "previous_stats": {
         "builds": 1,
