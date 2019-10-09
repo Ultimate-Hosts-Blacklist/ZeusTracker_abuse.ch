@@ -167,7 +167,7 @@
     "dupionet.com": {
         "epoch": 1570579200,
         "expiration_date": "09-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "dzitech.net": {
         "epoch": "1577404800",
