@@ -184,6 +184,11 @@
         "expiration_date": "18-sep-2019",
         "state": "future"
     },
+    "fileserver03.com": {
+        "epoch": 1602374400,
+        "expiration_date": "11-oct-2020",
+        "state": "future"
+    },
     "finsolutions.top": {
         "epoch": 1593820800,
         "expiration_date": "04-jul-2020",
@@ -423,6 +428,11 @@
         "epoch": "1537228800",
         "expiration_date": "18-sep-2018",
         "state": "past"
+    },
+    "suryapolix.club": {
+        "epoch": 1602374400,
+        "expiration_date": "11-oct-2020",
+        "state": "future"
     },
     "techakym.pw": {
         "epoch": 1471478400,
