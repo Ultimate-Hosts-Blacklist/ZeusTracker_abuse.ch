@@ -38,7 +38,9 @@
         "frevolore.com",
         "ebesee.com",
         "www.ebesee.com",
-        "activescrews.com"
+        "activescrews.com",
+        "afobal.cl",
+        "www.afobal.cl"
     ],
     "INACTIVE": [
         "www.homedeco.com.bo",
@@ -551,7 +553,18 @@
         "www.techakym.pw",
         "secure.lynxbowlingservices.com",
         "dileconme.hotmail.ru",
-        "techakym.pw"
+        "techakym.pw",
+        "me.centronind.club",
+        "chambercb.tk",
+        "www.chambercb.tk",
+        "bin1.kns1.al",
+        "prk.firstconf.3gb.biz",
+        "www.ohimmades.pw",
+        "ohimmades.pw",
+        "ice.ip64.net",
+        "genteatsss.com",
+        "www.genteatsss.com",
+        "gate.timstackleshop.es"
     ],
     "INVALID": [
         "exit();",
@@ -560,6 +573,8 @@
         "?>",
         "ciceidr.t",
         "INACTIVE",
-        "\""
+        "\"",
+        "registerdrivegoogle.sytes.n:",
+        "www.registerdrivegoogle.sytes.n:"
     ]
 }
