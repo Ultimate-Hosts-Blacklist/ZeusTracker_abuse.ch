@@ -9,11 +9,6 @@
         "expiration_date": "23-may-2020",
         "state": "future"
     },
-    "afobal.cl": {
-        "epoch": 1590710400,
-        "expiration_date": "29-may-2020",
-        "state": "future"
-    },
     "apple-trusted.com": {
         "epoch": 1582416000,
         "expiration_date": "23-feb-2020",
@@ -39,11 +34,6 @@
         "expiration_date": "24-apr-2020",
         "state": "future"
     },
-    "br1vo.com": {
-        "epoch": 1587772800,
-        "expiration_date": "25-apr-2020",
-        "state": "future"
-    },
     "chhathpuja.com": {
         "epoch": 1602374400,
         "expiration_date": "11-oct-2020",
@@ -64,64 +54,19 @@
         "expiration_date": "29-jan-2020",
         "state": "future"
     },
-    "delaponitan.pw": {
-        "epoch": 1490745600,
-        "expiration_date": "29-mar-2017",
-        "state": "past"
-    },
-    "depolakoeasre.pw": {
-        "epoch": 1464739200,
-        "expiration_date": "01-jun-2016",
-        "state": "past"
-    },
     "dupionet.com": {
         "epoch": 1570579200,
         "expiration_date": "09-oct-2019",
         "state": "past"
-    },
-    "eavgwy5suy.tk": {
-        "epoch": 1602720000,
-        "expiration_date": "15-oct-2020",
-        "state": "future"
-    },
-    "ebesee.com": {
-        "epoch": 1599868800,
-        "expiration_date": "12-sep-2020",
-        "state": "future"
-    },
-    "fileserver03.com": {
-        "epoch": 1602374400,
-        "expiration_date": "11-oct-2020",
-        "state": "future"
     },
     "finsolutions.top": {
         "epoch": 1593820800,
         "expiration_date": "04-jul-2020",
         "state": "future"
     },
-    "foxmanwer.pw": {
-        "epoch": 1487289600,
-        "expiration_date": "17-feb-2017",
-        "state": "past"
-    },
-    "fretiolo.com": {
-        "epoch": 1599782400,
-        "expiration_date": "11-sep-2020",
-        "state": "future"
-    },
     "frevolore.com": {
         "epoch": 1599004800,
         "expiration_date": "02-sep-2020",
-        "state": "future"
-    },
-    "hi-j.com": {
-        "epoch": 1593043200,
-        "expiration_date": "25-jun-2020",
-        "state": "future"
-    },
-    "hsiehy-vn.com": {
-        "epoch": 1579910400,
-        "expiration_date": "25-jan-2020",
         "state": "future"
     },
     "kudrnwosas.faith": {
@@ -173,21 +118,6 @@
         "epoch": 1602374400,
         "expiration_date": "11-oct-2020",
         "state": "future"
-    },
-    "techmaha.pw": {
-        "epoch": 1466812800,
-        "expiration_date": "25-jun-2016",
-        "state": "past"
-    },
-    "tekjoe.space": {
-        "epoch": 1474243200,
-        "expiration_date": "19-sep-2016",
-        "state": "past"
-    },
-    "vankapetkavanis4.pw": {
-        "epoch": 1500681600,
-        "expiration_date": "22-jul-2017",
-        "state": "past"
     },
     "wirekinq.com": {
         "epoch": 1581465600,
