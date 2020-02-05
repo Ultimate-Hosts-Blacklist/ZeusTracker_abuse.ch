@@ -1,8 +1,8 @@
 {
     "currently_under_test": "0",
     "days_until_next_test": 2,
-    "end_datetime": "Mon Feb  3 23:11:45 2020",
-    "end_epoch": 1580771505.486455,
+    "end_datetime": "Wed Feb  5 10:26:19 2020",
+    "end_epoch": 1580898379.917104,
     "last_autosave_datetime": "Wed Oct 16 11:16:18 2019",
     "last_autosave_epoch": 1571224578.287984,
     "name": "ZeusTracker_abuse.ch",
@@ -18,6 +18,6 @@
         "whitelisted.list": 40
     },
     "raw_link": "https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist",
-    "start_datetime": "Mon Feb  3 23:11:45 2020",
-    "start_epoch": 1580771505.472458
+    "start_datetime": "Wed Feb  5 10:26:19 2020",
+    "start_epoch": 1580898379.904486
 }
