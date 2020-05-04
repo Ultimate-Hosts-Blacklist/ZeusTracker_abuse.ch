@@ -1,103 +1,11 @@
 {
     "api_call": {
-        "1583319581": {
-            "None": "INVALID"
-        },
-        "1583406491": {
-            "None": "INVALID"
-        },
-        "1583662499": {
-            "None": "INVALID"
-        },
-        "1583780850": {
-            "None": "INVALID"
-        },
-        "1583924640": {
-            "None": "INVALID"
-        },
-        "1584040001": {
-            "None": "INVALID"
-        },
-        "1584140489": {
-            "None": "INVALID"
-        },
-        "1584270588": {
-            "None": "INVALID"
-        },
-        "1584471715": {
-            "None": "INVALID"
-        },
-        "1584645408": {
-            "None": "INVALID"
-        },
-        "1584817318": {
-            "None": "INVALID"
-        },
-        "1584991155": {
-            "None": "INVALID"
-        },
-        "1585163983": {
-            "None": "INVALID"
-        },
-        "1585307063": {
-            "None": "INVALID"
-        },
-        "1585508900": {
-            "None": "INVALID"
-        },
-        "1585607586": {
-            "None": "INVALID"
-        },
-        "1585738771": {
-            "None": "INVALID"
-        },
-        "1585825589": {
-            "None": "INVALID"
-        },
-        "1585940718": {
-            "None": "INVALID"
-        },
-        "1586084035": {
-            "None": "INVALID"
-        },
-        "1586171349": {
-            "None": "INVALID"
-        },
-        "1586286960": {
-            "None": "INVALID"
-        },
-        "1586459589": {
-            "None": "INVALID"
-        },
-        "1586602764": {
-            "None": "INVALID"
-        },
-        "1586719543": {
-            "None": "INVALID"
-        },
-        "1586862411": {
-            "None": "INVALID"
-        },
-        "1586978136": {
-            "None": "INVALID"
-        },
-        "1587120947": {
-            "None": "INVALID"
-        },
-        "1587207549": {
-            "None": "INVALID"
-        },
-        "1587294467": {
-            "None": "INVALID"
-        },
-        "1587411818": {
-            "None": "INVALID"
-        },
-        "1588265531": {
-            "None": "INVALID"
-        },
-        "1588448432": {
-            "None": "INVALID"
+        "None": {
+            "included_at_epoch": 1588448432.0,
+            "included_at_iso": "2020-05-02T19:40:32",
+            "last_retested_at_epoch": 1588552554.892861,
+            "last_retested_at_iso": "2020-05-04T00:35:54.892861",
+            "status": "INVALID"
         }
     }
 }
