@@ -2,17 +2,17 @@
     "currently_under_test": false,
     "custom_pyfunceble_config": {},
     "days_until_next_test": 2,
-    "end_datetime": "2021-01-25T00:37:47.243421",
-    "end_epoch": 1611535067.243421,
+    "end_datetime": "2021-01-25T12:30:56.249020",
+    "end_epoch": 1611577856.24902,
     "name": "ZeusTracker_abuse.ch",
-    "previous_end_datetime": "2021-01-24T12:21:41.637150",
-    "previous_end_epoch": 1611490901.63715,
-    "previous_start_datetime": "2021-01-24T12:21:41.042674",
-    "previous_start_epoch": 1611490901.042674,
+    "previous_end_datetime": "2021-01-25T00:37:47.243421",
+    "previous_end_epoch": 1611535067.243421,
+    "previous_start_datetime": "2021-01-25T00:37:46.609239",
+    "previous_start_epoch": 1611535066.609239,
     "pyfunceble": {
         "config": {}
     },
     "raw_link": "https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist",
-    "start_datetime": "2021-01-25T00:37:46.609239",
-    "start_epoch": 1611535066.609239
+    "start_datetime": "2021-01-25T12:30:55.749063",
+    "start_epoch": 1611577855.749063
 }
