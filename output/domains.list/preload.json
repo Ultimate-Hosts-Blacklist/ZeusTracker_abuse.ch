@@ -1,15 +1,13 @@
 {
-    "abs_source": "/home/runner/work/ZeusTracker_abuse.ch/ZeusTracker_abuse.ch/domains.list",
     "checker_type": "AVAILABILITY",
     "destination": "domains.list",
     "hash": "f8265cbce116c245d54401b64a65511f27bfa6df0cb2c5f51bf61d33",
     "line_number": 2,
-    "output_dir": "/home/runner/work/ZeusTracker_abuse.ch/ZeusTracker_abuse.ch/output/domains.list",
+    "output_dir": "/var/lib/jenkins/workspace/list_ZeusTracker_abuse.ch_master/output/domains.list",
     "previous_hash": "f8265cbce116c245d54401b64a65511f27bfa6df0cb2c5f51bf61d33",
-    "rel_source": "domains.list",
-    "session_id": "15db639770d8e3af0e1ee8ea",
-    "source": "/home/runner/work/ZeusTracker_abuse.ch/ZeusTracker_abuse.ch/domains.list",
-    "subject": "/home/runner/work/ZeusTracker_abuse.ch/ZeusTracker_abuse.ch/domains.list",
+    "session_id": "63ffdf81556bf87535278849",
+    "source": "domains.list",
+    "subject": "domains.list",
     "subject_type": "domain",
     "type": "file"
 }
